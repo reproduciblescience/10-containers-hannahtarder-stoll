@@ -1,0 +1,18 @@
+Type: Compendium
+Package: Squirrels of New York
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "Hannah",
+           family = "Tarder-Stoll",
+           role = c("aut", "cre"),
+           email = "hrt2116@columbia.edu"
+Description: Squirrel Census in Central Park 2018
+License: What license it uses
+Depends: 
+    rmarkdown,
+    tidyverse,
+    tm,
+    topicmodels
+Encoding: UTF-8
+LazyData: true
